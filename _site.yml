@@ -1,5 +1,5 @@
 name: "blog-template"
-title: "___'s Blog"
+title: "Lynda's Blog"
 output_dir: "docs"
 navbar:
   right:
@@ -10,8 +10,8 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/BioDataScience-Course/blog-template
-base_url: http://biodatascience-course.sciviews.org/blog-template/
+      href: https://github.com/LyndaBenttoumi/Lynda-Benttoumi_blog
+base_url: http://LyndaBenttoumi.github.io/Lynda-Benttoumi_blog
 collections:
     posts:
       share: [twitter, linkedin, facebook]
