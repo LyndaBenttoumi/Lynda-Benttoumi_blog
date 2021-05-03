@@ -1,7 +1,7 @@
 ---
 title: "About Me"
-author:
-  - name: "___" 
+author:"Lynda Benttoumi"
+  - name: "Presentation" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
@@ -9,3 +9,14 @@ output: distill::distill_article
 This section must bu include a short presentation of you.
 
 - first name/surname, teacher’s name, class name and academic year
+
+First name : Lynda
+Family name : Benttoumi
+class name : Bachelor second year in biological sciences.
+Teacher's name : Nicolas Devilez
+
+My name is Lynda Benttoumi,I am 32 years old and I come from Algeria,
+I had a master's degree in microbiology in Algeria and I come here to learn more about biology in general.
+I work as an optometrist in ophthalmology and I decided to give up everything to resume my vocation which is the science of life.
+I am in the middle of a bachelor's degree in biological sciences  at the university of Mons and I learn more every day and as they say we never regret having dared to change everything and start everything again because in the end we regret what has not been makes that what we have already tried.
+I am someone dynamic and very sociable and I like human contact and sharing.

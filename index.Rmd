@@ -1,5 +1,5 @@
 ---
-title: "___"
+title: "Covid 19 relation with heart inflamation,exemple of vaccine and result on variants."
 site: distill::distill_website
 listing: posts
 ---

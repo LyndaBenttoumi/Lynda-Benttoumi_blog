@@ -1,5 +1,5 @@
-name: "blog-template"
-title: "Lynda's Blog"
+name: " Lynda-Benttoumi_blog"
+title: " Covid 19 relation with heart inflamation,exemple of vaccine and result on variants."
 output_dir: "docs"
 navbar:
   right:
@@ -10,8 +10,8 @@ navbar:
     - text: "About Me"
       href: "posts/about/index.html"
     - icon: fab fa-github
-      href: https://github.com/LyndaBenttoumi/Lynda-Benttoumi_blog
-base_url: http://LyndaBenttoumi.github.io/Lynda-Benttoumi_blog
+      href:https://github.com/LyndaBenttoumi 
+base_url:LyndaBenttoumi.github.io/Lynda-Benttoumi_blog
 collections:
     posts:
       share: [twitter, linkedin, facebook]
